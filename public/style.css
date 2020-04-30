@@ -1,0 +1,9 @@
+/* Add your styles here */
+.container{
+    margin: 0 auto;
+    width: 500px;
+}
+.completed{
+    text-decoration: line-through;
+    color: darkgrey;
+}
